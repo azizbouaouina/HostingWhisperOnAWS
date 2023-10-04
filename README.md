@@ -2,6 +2,12 @@
 
 This repository contains a Python Lambda function for transcribing audio files stored in an S3 bucket using the Whisper ASR (Automatic Speech Recognition) system.
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Functionality](#functionality)
+- [Installation and Deployment](#installation-and-deployment)
+- [Usage](#usage)
+
 ## Requirements
 
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
