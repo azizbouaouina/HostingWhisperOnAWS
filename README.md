@@ -32,3 +32,5 @@ The Lambda function defined in `app.py` does the following:
 1. Upload an audio file to the configured S3 bucket.
 2. Wait for the Lambda function to be triggered automatically by the S3 bucket event.
 3. Retrieve the transcription result from the Lambda function's JSON response.
+
+![6](https://github.com/azizbouaouina/HostingWhisperOnAWS/assets/104959387/abe1f800-bcc1-463c-a30e-10267c29dde7)
